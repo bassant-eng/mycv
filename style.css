@@ -3,6 +3,9 @@
     flex-direction: column;
     height: 800px;
 }
+a{
+    color: rgb(235, 238, 240);
+}
 img{
     width:200px;
     height: 200px;
