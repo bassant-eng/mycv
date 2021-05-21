@@ -58,7 +58,7 @@ table,td,th{
     border: 1px solid black;
     border-collapse: collapse;
 }
-@media (max-width:600px){
+@media (max-width:800px){
     .content{
         flex: 1 1 auto;
         display: flex;
